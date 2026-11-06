@@ -1,11 +1,11 @@
 
-## Lunch Menu App
+# Lunch Menu App
 
-## What is this?
+# What is this?
 
-# This application shows users offers from restaurants in Brno, with filters. For example, filters such as “No Mushrooms” or “Gluten Free”
+## This application shows users offers from restaurants in Brno, with filters. For example, filters such as “No Mushrooms” or “Gluten Free”
 
-## What 4 services does it need?
+# What 4 services does it need?
 
 - Hosting: Hosting is a service that keeps my app running. I can buy it from a provider.
 - Database: A database is a place where information is stored. In our app, the database stores information about restaurants in Brno.
