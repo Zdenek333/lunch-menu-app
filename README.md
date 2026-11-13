@@ -12,3 +12,5 @@
 - Storage: Storage is a space for my files. In our app, the storage holds files in JPG format, for example food photos.
 - Authentication: Authentication is a security checkpoint. I must log in to access my files. In our app, the admin must log in to change the menu.
 
+## How to run
+

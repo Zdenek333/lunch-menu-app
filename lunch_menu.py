@@ -1,5 +1,5 @@
 # Lunch menu app: 5 fake restaurants, 2 dishes each (name, price, tags).
-# MY COMMENT restaurant is string. In this string are names of restaruant and dishes, prices and ingerdients.
+# MY COMMENT restaurants is a collection. In this collection is dictionary and lists and tuples.
 restaurants = {
     "Pasta Place": [
         ("Mushroom Risotto", 9.50, ["mushrooms", "dairy"]),
